@@ -9,8 +9,8 @@ Pequeño sistema que dispensa alimento automáticamente usando
 ## Lista de Materiales
 Ver archivo en `bom/`.
 ## Diagrama y conexiones
-Imagen en `docs.zip`.
+Imagen en `docs.zip/`.
 ## Código
 Código fuente en `firmware.ino/`.
 ## Evidencia
-Fotos y video en `media/`.
+Fotos y video en `media.mp4/`.
