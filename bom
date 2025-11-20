@@ -1,0 +1,11 @@
+Configuración Inicial del Proyecto en Wokwi
+1. Abre un nuevo proyecto ESP32 Devkit en Wokwi.com.
+2. Instala la Biblioteca: Si no lo has hecho, asegúrate de añadir la biblioteca
+correcta.
+o Ve al "Library Manager" o crea el archivo libraries.txt e incluye la línea:
+ESP32Servo.
+3. Añadir Componentes: Usa el menú + (Add Parts) y añade al diagrama:
+o Un Sensor PIR (HC-SR501).
+o Un Servomotor (Servo).
+o Un LED (con un resistor de 220 Ohms).
+Sigue el cableado que se encuentra en el docs/
